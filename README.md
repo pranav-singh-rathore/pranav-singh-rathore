@@ -1,4 +1,4 @@
-# Hi, I'm Pranav Singh Rathore
+# Hi, I'm Pranav 
 
 **M.Sc. Computer Science · Embedded Systems · Edge AI · Full-Stack**
 
