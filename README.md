@@ -26,6 +26,7 @@
 ![CAN Bus](https://img.shields.io/badge/CAN-2.0B-0066CC)
 ![ARM](https://img.shields.io/badge/ARM-Cortex--A/M-0091BD?logo=arm&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Edge-C51A4A?logo=raspberrypi&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA-Jetson_Orin_Nano-76B900?logo=nvidia&logoColor=white)
 
 ### AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
@@ -48,7 +49,7 @@
 
 | Area | Proof |
 |------|-------|
-| **Edge AI** | 22 FPS object detection @ 3.5W · sub-50ms inference on ARM |
+| **Edge AI** | Jetson Orin Nano edge analytics · 22 FPS object detection @ 3.5W · sub-50ms inference |
 | **ML Research** | XGBoost AUC **0.98** · peer-reviewed publication (2025) |
 | **Full-Stack** | 10,000+ API calls/day · 99.9% uptime microservices |
 | **Embedded** | FreeRTOS · CAN 2.0B · I²C/SPI/UART · STM32 |
@@ -66,8 +67,8 @@
 
 ---
 
-Currently **Software Developer (Working Student)** at **Advercharge GmbH** — C++ firmware & edge ML on ARM.
+Currently **Software Developer (Working Student)** at **Advercharge GmbH** — edge analytics on **NVIDIA Jetson Orin Nano**, C++ firmware & ML on ARM.
 
-Open to **Werkstudent** roles in Munich · Stuttgart · Frankfurt · Embedded · Full-Stack · AI/ML
+Open to **Werkstudent** roles in Munich · Stuttgart · Nürnberg · Regensburg · Dresden · Embedded · Full-Stack · AI/ML
 
 📄 [**Portfolio**](https://pranavrathore.dev) · [**Resume PDF**](https://pranavrathore.dev/resume.pdf)
