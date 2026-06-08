@@ -2,6 +2,8 @@
 
 **M.Sc. Computer Science · Embedded Systems · Edge AI · Full-Stack**
 
+*Fleißig · Motiviert · Umgänglich · Schlagfertig · Findig · Eigeninitiativ · Programmierer*
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-pranavrathore.dev-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pranavrathore.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-singh-rathore)
 [![Email](https://img.shields.io/badge/Email-pranavsinghrathore0507@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavsinghrathore0507@gmail.com)
