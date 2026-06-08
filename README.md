@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Pranav Singh Rathore
 
-<!--
-**pranav-singh-rathore/pranav-singh-rathore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.Sc. Computer Science · Embedded Systems · Edge AI · Full-Stack**
 
-Here are some ideas to get you started:
+📍 Siegen, Germany · 🎓 Universität Siegen · 📄 [Published researcher](https://github.com/pranav-singh-rathore/Maintenance-strategy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](https://pranav-singh-rathore.github.io/portfolio) · [LinkedIn](https://linkedin.com/in/pranav-singh-rathore) · [Email](mailto:pranavsinghrathore0507@gmail.com) · [Resume PDF](https://pranav-singh-rathore.github.io/portfolio/resume.pdf)
+
+---
+
+## Highlights
+
+| Area | Proof |
+|------|-------|
+| Edge AI | 22 FPS object detection @ 3.5W · sub-50ms inference on ARM |
+| ML Research | XGBoost AUC **0.98** · peer-reviewed publication (2025) |
+| Full-Stack | 10,000+ API calls/day · 99.9% uptime microservices |
+| Embedded | FreeRTOS · CAN 2.0B · I²C/SPI/UART · STM32 |
+
+---
+
+## Featured Projects
+
+| Project | Stack | Key metric |
+|---------|-------|------------|
+| [Maintenance-Strategy](https://github.com/pranav-singh-rathore/Maintenance-strategy) | XGBoost, scikit-learn | AUC 0.98 · published paper |
+| [PredictIQ](https://github.com/pranav-singh-rathore/predictiq) | PyTorch, MQTT, Grafana | LSTM anomaly detection on edge |
+| [EdgeVision](https://github.com/pranav-singh-rathore/edgevision) | C++, TFLite, YOLOv8 | 22 FPS on Raspberry Pi 4 |
+| [CANalyzer-OS](https://github.com/pranav-singh-rathore/canalyzer-os) | FreeRTOS, STM32, CAN | 1 Mbps logging · <2ms jitter |
+
+---
+
+Currently **Software Developer (Working Student)** at Advercharge GmbH — C++ firmware & edge ML on ARM.
+
+Open to **Werkstudent** roles in Munich, Stuttgart, Frankfurt · Embedded · Full-Stack · AI/ML
